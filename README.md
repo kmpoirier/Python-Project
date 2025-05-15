@@ -4,9 +4,9 @@ Poirier_OOP_FinalProj_2025.py has a Seq class, DNA class, RNA class and Protein 
 
 The PythonProject_2025.ipynb file is a Jupyter Notebook that tests Seq class, DNA class, RNA class and Protein class from Poirier_OOP_FinalProj_2025.py.
 
-PoirierPythonRefresher.py is a file a Python lab exercise that includes making functions on calculating weight matrix which is the probability of each nucleotide at a position and a function that finds a motif of interest and a function that calculates Bray-Curtis Dissimilarity matrix. 
+PoirierPythonRefresher.py is a file that is a Python lab exercise that includes making functions on calculating weight matrix which is the probability of each nucleotide at a position and a function that finds a motif of interest and a function that calculates Bray-Curtis Dissimilarity matrix. 
 
-PoirierPandasScipyPractice-1.ipynb is a Jupyter notebook that goes through a tutorial on understand Pandas and Scipy statistical methods.
+PoirierPandasScipyPractice-1.ipynb is a Jupyter notebook that goes through a tutorial to understand Pandas and Scipy statistical methods.
 
 
 
