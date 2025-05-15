@@ -8,13 +8,13 @@
 - Lastly, the Protein class calculates the total hydrobicity and total molecular weight of the amino acid sequence. This file also includes doc tests that tests every function of each class. 
 
 ## PythonProject_2025.ipynb:
-- a Jupyter Notebook that tests Seq class, DNA class, RNA class and Protein class from Poirier_OOP_FinalProj_2025.py.
+- a Jupyter Notebook that tests Seq class, DNA class, RNA class and Protein class from Poirier_OOP_FinalProj_2025.py
 
 ## PoirierPythonRefresher.py:
-- a Python lab exercise that includes making functions on calculating weight matrix which is the probability of each nucleotide at a position, a function that finds a motif of interest and a function that calculates Bray-Curtis Dissimilarity matrix. 
+- a Python lab exercise that includes making functions on calculating weight matrix which is the probability of each nucleotide at a position, a function that finds a motif of interest and a function that calculates Bray-Curtis Dissimilarity matrix 
 
 ## PoirierPandasScipyPractice-1.ipynb:
-- a Jupyter notebook that goes through a tutorial to understand Pandas and Scipy statistical methods.
+- a Jupyter notebook that goes through a tutorial to understand Pandas and Scipy statistical methods
 
 
 
